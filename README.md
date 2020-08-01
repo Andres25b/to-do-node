@@ -9,7 +9,7 @@ Descripción: Esta es una aplicación para crear, eliminar, actualizar y listar 
 5. CRUD al archivo JSON.
 
 # Modo de uso de la app
-1. Clonar el repositorio [aquí](https://github.com/Andres25b/tod-do-node)
+1. Clonar el repositorio [aquí](https://github.com/Andres25b/to-do-node)
 2. Para instalar las dependencias. Ejecute el siguiente comando:
 
         npm install
